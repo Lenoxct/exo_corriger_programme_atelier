@@ -1,0 +1,2 @@
+1. Le texte apparaît seulement en normal, avec un titre H1, avec aucune couleur particulière, ni de mise en forme particulière.
+2. Nom du fichier CSS dans index.html changé de styles.css, à style.css
